@@ -1,6 +1,6 @@
 # Small isolated Proxmox network lab
 
-This blueprint uses two small Linux guests to practice addressing, DNS, HTTP, packet capture, and troubleshooting. It is a learning design, not a one-click installer. Proxmox menus and guest networking vary by version and template.
+This blueprint uses two small Linux guests to practice Network+ concepts: addressing, DNS, HTTP, packet capture, and troubleshooting. It is a learning design, not a one-click installer. Proxmox menus and guest networking vary by version and template. Use it as supplemental practice around your instructor’s virtual labs and assignments.
 
 ## Topology
 
@@ -40,6 +40,10 @@ Allow only the services required by the exercise from the toolbox guest: DNS TCP
 6. **Throughput (optional):** Run a brief `iperf3` test between the guests. Explain why a virtual switch result does not measure internet speed.
 
 For each exercise, record the hypothesis, commands, observed output, conclusion, cleanup, and one follow-up question. A port scan, if used, must target only the lab target you configured.
+
+## Learning workflow
+
+Before each exercise, name the objective and predict the result. Capture only the minimum evidence needed, interpret it in your own words, and distinguish direct observations from assumptions. After the exercise, restore the starting state, verify connectivity and services, and add any missed concepts to the study log. Never point these exercises at public, school, or home networks unless the owner has explicitly authorized that exact activity.
 
 ## Reset and cleanup
 

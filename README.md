@@ -28,9 +28,21 @@ A practical, beginner-friendly record of my journey toward CompTIA Network+. Thi
 
 Professor Messer’s lessons and materials belong to Professor Messer. This project links to his resources and does not copy or redistribute his videos, notes, or practice questions. Check the official CompTIA objectives and your instructor’s direction for the exam version you will take.
 
+## Course context
+
+I am using this project alongside DSDT College’s Technology Professional 6 certificate. The published program description lists three 80-hour courses—CTN-102 CompTIA Network+, SYO-701 CompTIA Security+, and CS0-002 CompTIA CySA+—for 240 clock hours over three months, with 50 theory and 30 lab hours per course. DSDT describes instructor-led lectures, discussion, interactive applications, and virtual lab sessions; it also lists Hack The Box Labs among the software. Attendance is mandatory. The school page says syllabi may change, so the instructor’s current syllabus, exam objectives, and assignments take priority.
+
+My immediate milestone is Network+. I use the [eight-week study plan](docs/study-plan.md) as supplemental structure around class, not as a replacement for the class schedule. Professor Messer’s linked lessons cover N10-009; DSDT’s page does not name the Network+ exam version, so confirm alignment with the instructor before treating N10-009 as the required version or booking an exam. The [DSDT program description](https://dsdt.edu/programs/technology-professional-6-program/) is the source for program details.
+
+## How I practice
+
+Learn the course concept, recall it without notes, apply it in an instructor-approved virtual lab or isolated home lab, then write a short evidence-based report. My initial home-lab pattern is a toolbox guest and a target guest on an isolated virtual network. Practice is limited to systems I own or have explicit permission to use. A safe learning sequence is addressing and routes, DNS/HTTP behavior, packet capture, basic service checks against the lab target, then a controlled break/fix and verification. Explain observations and uncertainty; do not treat a scan result as proof of compromise.
+
+This is a living study journal. I’ll add dated progress updates, lessons learned, and lab write-ups as I work through the material. Personal details, account information, private addresses, host access links, and private lab configuration do not belong in this repository.
+
 ## Progress
 
-This is a living study journal. I’ll add dated progress updates, lessons learned, and lab write-ups as I work through the material. Personal details, account information, and private lab configuration do not belong in this repository.
+See the [dated progress log](progress/2026-10-03.md) for the current course setup and next actions.
 
 ## License
 

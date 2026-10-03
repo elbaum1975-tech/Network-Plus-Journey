@@ -1,10 +1,10 @@
 # Network+ eight-week study plan
 
-This is a flexible plan for a learner studying toward CompTIA Network+. It is independent study guidance, not an official course syllabus. Match it to the current exam objectives and your instructor’s schedule. The week-by-week Messer section references below are based on Professor Messer’s N10-009 course; confirm N10-009 is the right exam version before using them.
+This is a flexible supplemental plan for studying toward CompTIA Network+ alongside DSDT’s CTN-102 course. DSDT describes that class as 80 hours (50 theory, 30 laboratory) with virtual labs and a course final. This is not the school syllabus: attend every required session, follow the assigned syllabus and due dates, and ask the instructor which exam objectives/version to use. The Professor Messer section references below are based on N10-009; DSDT’s program page does not specify the Network+ exam version, so confirm before using N10-009 as your official target or booking an exam.
 
 ## A steady weekly routine
 
-Plan for five short sessions each week. Adjust the time to your own schedule and coursework:
+Fit these five study actions around the required class and lab hours. For each DSDT topic, use the same loop: learn it, recall it without notes, apply it in a permitted lab, answer practice questions, and repair weak areas. Adjust the time to your actual course schedule:
 
 1. **Learn:** Watch a small set of lessons and read the matching course material. Explain each concept in your own words.
 2. **Recall:** Review flashcards, ports, protocols, diagrams, and subnetting without looking at notes.
@@ -13,6 +13,8 @@ Plan for five short sessions each week. Adjust the time to your own schedule and
 5. **Repair:** Revisit weak concepts, answer similar questions again, and plan the next week.
 
 Use a study log to track the lesson sections completed, questions attempted, weak objectives, and next action. Do not count video time alone as mastery: practice explaining and applying each concept.
+
+For class continuity, capture each day’s instructor topic, assigned work, due date, questions, and lab evidence in the weekly tracker. If you miss a session, contact the instructor or classmates promptly and make a specific catch-up list; DSDT states that students are responsible for missed work.
 
 ## Week-by-week focus
 
