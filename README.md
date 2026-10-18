@@ -36,13 +36,13 @@ My immediate milestone is Network+. I use the [eight-week study plan](docs/study
 
 ## How I practice
 
-Learn the course concept, recall it without notes, apply it in an instructor-approved virtual lab or isolated home lab, then write a short evidence-based report. My initial home-lab pattern is a toolbox guest and a target guest on an isolated virtual network. Practice is limited to systems I own or have explicit permission to use. A safe learning sequence is addressing and routes, DNS/HTTP behavior, packet capture, basic service checks against the lab target, then a controlled break/fix and verification. Explain observations and uncertainty; do not treat a scan result as proof of compromise.
+Learn the course concept, recall it without notes, apply it in an instructor-approved virtual lab or isolated home lab, then write a short evidence-based report. My initial home-lab pattern was a toolbox guest and a target guest on an isolated virtual network. The current [routed VLAN lab](labs/routed-vlan-lab.md) adds a managed switch, OPNsense and a physical Windows domain controller. Practice is limited to systems I own or have explicit permission to use. A safe learning sequence is addressing and routes, DNS/HTTP behavior, packet capture, basic service checks against the lab target, then a controlled break/fix and verification. Explain observations and uncertainty; do not treat a scan result as proof of compromise.
 
 This is a living study journal. I’ll add dated progress updates, lessons learned, and lab write-ups as I work through the material. Personal details, account information, private addresses, host access links, and private lab configuration do not belong in this repository.
 
 ## Progress
 
-See the [dated progress log](progress/2026-10-03.md) for the current course setup and next actions.
+See the [October 18 progress log](progress/2026-10-18.md) for the current lab and next actions; the [October 3 entry](progress/2026-10-03.md) records the initial setup.
 
 ## License
 

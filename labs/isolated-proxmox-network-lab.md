@@ -48,3 +48,9 @@ Before each exercise, name the objective and predict the result. Capture only th
 ## Reset and cleanup
 
 Take a snapshot before changing the target. After the exercise, stop temporary services or revert the snapshot and verify the interface and routes again. Keep an independent backup of anything you need; snapshots on the same storage do not protect against storage failure. Start only the guests needed for the exercise.
+
+## Later lab stage
+
+This remains the disconnected exercise blueprint. The actual lab later evolved into
+a [routed VLAN lab](routed-vlan-lab.md) with a physical access port and firewall
+gateway; do not apply the no-uplink/no-gateway assumptions to that deployment.
